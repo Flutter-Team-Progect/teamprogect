@@ -8,7 +8,7 @@ class Logindatabasehandler {
  int? seq;
   String id;
   String password;
-  String phone;
+  String phone;sssssssss
   Uint8List image;
 
 */
